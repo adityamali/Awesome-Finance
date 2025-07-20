@@ -2,10 +2,10 @@
 
 ## Money Markets and Capital Markets
 
-- [ ] **Focus Area 1: Introduction; Key Instruments**
+- [x] **Focus Area 1: Introduction; Key Instruments**
   - [x] Money market vs. capital market
-  - [ ] Major instruments (Treasury bills, commercial papers, bonds, debentures)
-  - [ ] Primary vs. secondary markets
+  - [x] Major instruments (Treasury bills, commercial papers, bonds, debentures)
+  - [x] Primary vs. secondary markets
 - [ ] **Focus Area 2: Institutions & Products**
   - [ ] Role of RBI, SEBI, stock exchanges, depositories
   - [ ] Mutual funds, government securities, corporate bonds

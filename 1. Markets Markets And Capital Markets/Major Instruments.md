@@ -32,3 +32,34 @@ Unsecured and short term debt issued by large corporations to fund day to day op
 
 ### Short Term Corporate Bonds
 - Basically a debt issued by the company as a way for it to borrow money from investors for a breif period of time.
+
+## Capital Market Instruments.
+
+### Equities
+- Companies sell ownership stakes to raise funds. 
+- First time through IPO
+- Might Conduct follow on offerings after the IPO.
+- Can be publicaly traded following the IPO.
+- Offers Dividents ie. profit share and Voting Rights to the share holders.
+
+### Bonds
+- Long term debt securities issued by Governments and Organizations
+- Usually backed by the issuers assets as colateral
+- Basically is a loan to the issuer
+
+### Debentures
+- These are similar to bonds but less secure
+- Not backed by colateral 
+
+### Mutual Funds
+- A pooled investment wherein the fund manages investing for individuals across equity, bonds and other securities.
+
+### Exchange Traded Funds (ETFs)
+- These are Investment Funds that hold assets including equities and other and the fund itself is traded on the exchanges. 
+-  low expense ratios and fewer brokerage commissions than buying stocks individually
+- ***Nifty BeEs is an ETF***.
+
+### Exchange Traded Notes (ETNs)
+- Issued by financial institutions and bases its return on the index it tracks.
+- Does not hold the assets it tracks.
+
